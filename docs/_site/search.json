@@ -1,0 +1,67 @@
+[
+
+  
+    
+    
+    {
+      "title": "Welcome",
+      "url": "/rccpii-capdev-2018/docs/home/"
+
+    },
+  
+    
+    
+    {
+      "title": "Themes",
+      "url": "/rccpii-capdev-2018/docs/themes/"
+
+    },
+  
+    
+    
+    {
+      "title": "Customization",
+      "url": "/rccpii-capdev-2018/docs/customization/"
+
+    },
+  
+
+  
+    
+    
+    {
+      "title": "Markdown Cheatsheet",
+      "url": "/rccpii-capdev-2018/docs/cheatsheet/"
+
+    },
+  
+    
+    
+    {
+      "title": "Font Awesome Icon List",
+      "url": "/rccpii-capdev-2018/docs/font-awesome/"
+
+    },
+  
+    
+    
+    {
+      "title": "Bootstrap Features",
+      "url": "/rccpii-capdev-2018/docs/bootstrap/"
+
+    },
+  
+
+
+  
+  {
+  "title": "Jekyll Doc Theme is published!",
+  "url": "/rccpii-capdev-2018/blog/2017/05/03/jekyll-doc-theme/"
+  },
+  
+  {
+  "title": "Welcome to Jekyll!",
+  "url": "/rccpii-capdev-2018/blog/2017/02/01/welcome-to-jekyll/"
+  }
+  
+]
